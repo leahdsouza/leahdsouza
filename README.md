@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-Computer Engineering Undergraduate.<br>I'm currently learning about Snowflake<br>Data Science enthusiast<br>Would to collaborate on Knowledge Data Discovery projects<br>
+Pursuing MS in Data Science @ Indiana University Bloomington.<br>Actively seeking Summer 2024 internships<br>I'm currently learning about Snowflake<br>Data Science enthusiast<br>Would love to collaborate on Knowledge Data Discovery projects<br>
 
 
 ## 🌐 Socials:
