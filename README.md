@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-Pursuing MS in Data Science @ Indiana University Bloomington.<br>Actively seeking Summer 2024 internships<br>I'm currently learning about Snowflake<br>Data Science enthusiast<br>Would love to collaborate on Knowledge Data Discovery projects<br>
+Pursuing MS in Data Science @ Indiana University Bloomington.<br>Actively seeking full-time roles starting Summer 2025.<br>I'm currently learning about Snowflake.<br>Data Scientist.
 
 
 ## 🌐 Socials:
