@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-Pursuing MS in Data Science @ Indiana University Bloomington.<br>Actively seeking full-time roles starting Summer 2025.<br>Data Scientist.
+Data Scientist.
 
 
 ## 🌐 Socials:
